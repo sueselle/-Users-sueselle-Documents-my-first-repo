@@ -1,0 +1,37 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #faf5f5;
+    font-family: 'Calistoga', serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+    font-family: 'Calistoga';
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: green;
+    font-family: 'Calistoga';
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+p {
+    font-family: 'Open Sans';
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
